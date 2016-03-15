@@ -1,6 +1,6 @@
 <?php
-
-class SPS_Translate {
+namespace MC\Core;
+class Translate {
 
     protected $messages = array();
     protected $services;

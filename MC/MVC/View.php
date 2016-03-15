@@ -1,6 +1,6 @@
 <?php
-
-Class SPS_View {
+namespace MC\MVC;
+Class View {
 
     protected $services;
     protected $variables = array();

@@ -1,5 +1,6 @@
 <?php
-class SPS_Debug {
+namespace MC\Core;
+class Debug {
      protected static  $file ;
 
     public static function debug($var) {

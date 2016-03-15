@@ -1,5 +1,6 @@
 <?php
-Class SPS_Mvc {
+namespace MC\MVC;
+Class Mvc {
 protected $services;
 protected $modulesDir;
 protected $controllersDir;
